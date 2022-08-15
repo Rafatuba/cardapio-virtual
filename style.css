@@ -81,6 +81,10 @@ header a {
     color:#BF0404;
 }
 
+header a img {
+    max-width: 18px;
+}
+
 #carregar {
     display: flex;
     position: fixed;
